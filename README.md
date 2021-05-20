@@ -31,3 +31,7 @@
 - [Journal of Biomechanics](https://www.sciencedirect.com/journal/journal-of-biomechanics) 
 - [ACS Biomaterials Science & Engineering](https://pubs.acs.org/journal/abseba) 
 - [Soft Matter](https://www.rsc.org/journals-books-databases/about-journals/soft-matter/) 
+
+# Microfluidics
+
+- [Lab on a Chip](https://www.rsc.org/journals-books-databases/about-journals/lab-on-a-chip/) 
