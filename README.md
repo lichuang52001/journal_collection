@@ -3,11 +3,12 @@
 - [NSF - National Science Foundation](https://www.nsf.gov/)
 - [国家自然科学基金委员会](http://www.nsfc.gov.cn/) 
 
-# 综合性期刊
+# Multidisciplinary Science
 
 - [Science](https://www.sciencemag.org) 
 - [Nature](https://www.nature.com/) 
 - [PNAS](http://www.pnas.org/) 
+- [MIT Technology Review](https://www.technologyreview.com/) 
 
 # Physics
 
@@ -35,3 +36,8 @@
 # Microfluidics
 
 - [Lab on a Chip](https://www.rsc.org/journals-books-databases/about-journals/lab-on-a-chip/) 
+
+# Social
+
+- [科学网](http://www.sciencenet.cn/) 
+
