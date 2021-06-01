@@ -20,6 +20,7 @@
 - [ACS Nano](https://pubs.acs.org/journal/ancac3) 
 - [ACS Applied Nano Materials](https://pubs.acs.org/journal/aanmf6) 
 - [Nano Letters](https://pubs.acs.org/journal/nalefd) 
+- [Nanoscale](https://www.rsc.org/journals-books-databases/about-journals/nanoscale/) 
 
 # Interface Science
 
