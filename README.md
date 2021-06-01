@@ -18,6 +18,7 @@
 # Nano Tech./Sci.
 
 - [ACS Nano](https://pubs.acs.org/journal/ancac3) 
+- [ACS Applied Nano Materials](https://pubs.acs.org/journal/aanmf6) 
 - [Nano Letters](https://pubs.acs.org/journal/nalefd) 
 
 # Interface Science
