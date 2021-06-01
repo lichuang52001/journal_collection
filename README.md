@@ -15,6 +15,10 @@
 - [Physical Review Letters](https://journals.aps.org/prl/) 
 - [Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)
 
+# Chemistry
+
+- [Journal of the American Chemical Society](https://pubs.acs.org/journal/jacsat) 
+
 # Nano Tech./Sci.
 
 - [ACS Nano](https://pubs.acs.org/journal/ancac3) 
@@ -25,7 +29,7 @@
 # Interface Science
 
 - [Advances in Colloid and Interface Science](https://www.journals.elsevier.com/advances-in-colloid-and-interface-science) 
-- [Langmuir](https://pubs.acs.org/journal/langd5) 
+- [Langmuir](https://pubs.acs.org/journal/langd5)  
 - [ACS Applied Materials & Interfaces](https://pubs.acs.org/journal/aamick) 
 
 # Biomechanics
