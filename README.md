@@ -1,4 +1,4 @@
-# Government 
+# Government
 
 - [NSF - National Science Foundation](https://www.nsf.gov/)
 - [国家自然科学基金委员会](http://www.nsfc.gov.cn/) 
@@ -13,6 +13,7 @@
 # Physics
 
 - [Physical Review Letters](https://journals.aps.org/prl/) 
+- [Nature Physics](https://www.nature.com/nphys/)
 - [Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)
 
 # Chemistry
@@ -21,9 +22,14 @@
 
 # Nano Tech./Sci.
 
+- [Nature Nanotechnology](https://www.nature.com/nnano/)
+
 - [ACS Nano](https://pubs.acs.org/journal/ancac3) 
+
 - [ACS Applied Nano Materials](https://pubs.acs.org/journal/aanmf6) 
+
 - [Nano Letters](https://pubs.acs.org/journal/nalefd) 
+
 - [Nanoscale](https://www.rsc.org/journals-books-databases/about-journals/nanoscale/) 
 
 # Interface Science
@@ -46,4 +52,3 @@
 # Social
 
 - [科学网](http://www.sciencenet.cn/) 
-
