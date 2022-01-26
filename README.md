@@ -9,16 +9,20 @@
 - [Nature](https://www.nature.com/) 
 - [PNAS](http://www.pnas.org/) 
 - [MIT Technology Review](https://www.technologyreview.com/) 
+- [Nature Communications](https://www.nature.com/ncomms/)
 
 # Physics
 
-- [Physical Review Letters](https://journals.aps.org/prl/) 
+- [Physical Review Letters](https://journals.aps.org/prl/)
 - [Nature Physics](https://www.nature.com/nphys/)
+- [Nature Reviews Physics](https://www.nature.com/natrevphys/)
 - [Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)
+- [Communications Physics](https://www.nature.com/commsphys/)
 
 # Chemistry
 
 - [Journal of the American Chemical Society](https://pubs.acs.org/journal/jacsat) 
+- [Communications Chemistry](https://www.nature.com/commschem/)
 
 # Nano Tech./Sci.
 
@@ -53,8 +57,16 @@
 # Material
 
 - [Nature Materials](https://www.nature.com/nmat/)
-
 - [Nature Reviews Materials](https://www.nature.com/natrevmats/)
+- [Communications Materials](https://www.nature.com/commsmat/)
+- [npj Computational Materials](https://www.nature.com/npjcompumats/)
+
+# Engineering
+- [Communications Engineering](https://www.nature.com/commseng/journal-information)
+- [Microsystems & Nanoengineering](https://www.nature.com/micronano/)
+
+# Computer Science
+- [Nature Computational Science](https://www.nature.com/natcomputsci/)
 
 # Social
 
